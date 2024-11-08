@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\08 - Algorithms \u0026 Problem Solving Level 4\\#33 to #46 Decrease Date\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF94C82-7B8F-42AD-989F-A9D46096A230}|#33 to #46 Decrease Date\\#33 to #46 Decrease Date.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\08 - Algorithms \u0026 Problem Solving Level 4\\#33 to #46 Decrease Date\\#33 to #46 Decrease Date\\#33 to #46 Decrease Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BF94C82-7B8F-42AD-989F-A9D46096A230}|#33 to #46 Decrease Date\\#33 to #46 Decrease Date.vcxproj|solutionrelative:#33 to #46 Decrease Date\\#33 to #46 Decrease Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#33 to #46 Decrease Date.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\08 - Algorithms \u0026 Problem Solving Level 4\\#33 to #46 Decrease Date\\#33 to #46 Decrease Date\\#33 to #46 Decrease Date.cpp",
+              "RelativeDocumentMoniker": "#33 to #46 Decrease Date\\#33 to #46 Decrease Date.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\08 - Algorithms \u0026 Problem Solving Level 4\\#33 to #46 Decrease Date\\#33 to #46 Decrease Date\\#33 to #46 Decrease Date.cpp",
+              "RelativeToolTip": "#33 to #46 Decrease Date\\#33 to #46 Decrease Date.cpp",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T16:32:31.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
