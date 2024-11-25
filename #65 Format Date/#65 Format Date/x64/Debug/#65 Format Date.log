@@ -1,0 +1,5 @@
+﻿  #65 Format Date.cpp
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\08 - Algorithms & Problem Solving Level 4\(27,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\08 - Algorithms & Problem Solving Level 4\(46,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\08 - Algorithms & Problem Solving Level 4\(51,22): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  #65 Format Date.vcxproj -> C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\08 - Algorithms & Problem Solving Level 4\#65 Format Date\x64\Debug\#65 Format Date.exe
